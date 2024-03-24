@@ -1,7 +1,7 @@
 ### Olá me chamo Elber 👋
 
 
-Trabalho em diversos projetos envolvendo Engenharia de Software , Ciencias de Dados e Apps . Sou apaixonado por aprender coisas novas e passar meus conhecimentos para outras pessoas.Sou apaixonado por tecnologia . Por isso, vejo a area de dados como uma grande ponte entre a area de negocios  e tecnologia. Tambem  acredito que desenvolvimento auxilia no desennvolvimento de outras pessoas , e vice-versa. Amo aprender novos conceitos e vivenciar  novos desafios.
+Trabalho em diversos projetos envolvendo Engenharia de Software , Ciencias de Dados e Apps . Sou apaixonado por aprender coisas novas e passar meus conhecimentos para outras pessoas.Sou apaixonado por tecnologia . Por isso, vejo a area de dados como uma grande ponte entre a area de negocios  e tecnologia. Tambem  acredito que o desenvolvimento auxilia no desennvolvimento de outras pessoas , e vice-versa. Amo aprender novos conceitos e vivenciar  novos desafios.
 
 
 
